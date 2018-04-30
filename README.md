@@ -1,4 +1,4 @@
-# JavaScript Objects
+shiftsh# JavaScript Objects
 
 ## Objectives
 + Explain what an object is in JavaScript is
